@@ -1,0 +1,332 @@
+[
+    {
+        "idiom": "big cheese",
+        "desc": "важный человек, лидер",
+        "sentence": "Though my uncle is a big cheese in the company I never ask him for help.",
+        "translation": {
+            "GoogleTranslate": "Хотя мой дядя — большая персона в компании, я никогда не прошу его о помощи.",
+            "DeepTranslate": "Хотя мой дядя — большая персона в компании, я никогда не прошу его о помощи.",
+            "TranslatePlus": "Хотя мой дядя — большая шишка в компании, я никогда не прошу его о помощи.",
+            "MicrosoftTranslate": "Несмотря на то, что мой дядя большой сыр в компании, я никогда не прошу его о помощи."
+        }
+    },
+    {
+        "idiom": "have a heart of gold",
+        "desc": "иметь золотой характер (быть щедрым, искренним, доброжелательным)",
+        "sentence": "Ms. Evanson has a heart of gold; she is sincere and friendly.",
+        "translation": {
+            "GoogleTranslate": "У г-жи Эвансон золотое сердце; она искренняя и дружелюбная.",
+            "DeepTranslate": "У г-жи Эвансон золотое сердце; она искренняя и дружелюбная.",
+            "TranslatePlus": "У мисс Эвансон золотое сердце, она искренняя и дружелюбная.",
+            "MicrosoftTranslate": "У мисс Эвансон золотое сердце; Она искренняя и дружелюбная."
+        }
+    },
+    {
+        "idiom": "right as rain",
+        "desc": "(быть) в полном порядке; правильный, подлинный",
+        "sentence": "The information given by the newscaster was as right as rain.",
+        "translation": {
+            "GoogleTranslate": "Информация, предоставленная диктором новостей, была верной, как дождь.",
+            "DeepTranslate": "Информация, предоставленная диктором новостей, была верной, как дождь.",
+            "TranslatePlus": "Информация, предоставленная диктором, была абсолютно точной.",
+            "MicrosoftTranslate": "Информация, предоставленная диктором, была верна, как дождь."
+        }
+    },
+    {
+        "idiom": "put one's foot down (about something)",
+        "desc": "запретить, положить конец, занять твёрдую позицию",
+        "sentence": "This has gone far enough; he is going to put his foot down about his son's gambling.",
+        "translation": {
+            "GoogleTranslate": "Это зашло достаточно далеко; он собирается решительно отказаться от азартных игр своего сына.",
+            "DeepTranslate": "Это зашло достаточно далеко; он собирается решительно отказаться от азартных игр своего сына.",
+            "TranslatePlus": "Это зашло слишком далеко; он намерен занять твердую позицию в отношении азартных игр своего сына.",
+            "MicrosoftTranslate": "Это зашло достаточно далеко; Он собирается отказаться от азартных игр своего сына."
+        }
+    },
+    {
+        "idiom": "out of this world",
+        "desc": "удивительный, сказочный",
+        "sentence": "Dina's new attire was out of this world; it was extremely beautiful.",
+        "translation": {
+            "GoogleTranslate": "Новый наряд Дины был не от мира сего; это было чрезвычайно красиво.",
+            "DeepTranslate": "Новый наряд Дины был не от мира сего; это было чрезвычайно красиво.",
+            "TranslatePlus": "Новый наряд Дины был неземным: он был необыкновенно красив.",
+            "MicrosoftTranslate": "Новый наряд Дины был не от мира сего; Это было очень красиво."
+        }
+    },
+    {
+        "idiom": "Come again.",
+        "desc": "Скажите снова. Пожалуйста, повторите.",
+        "sentence": "\"Come again. I did not hear what you had said.\"",
+        "translation": {
+            "GoogleTranslate": "«Приходите еще. Я не слышал, что вы сказали».",
+            "DeepTranslate": "«Приходите еще. Я не слышал, что вы сказали».",
+            "TranslatePlus": "«Повтори. Я не расслышал, что ты сказал».",
+            "MicrosoftTranslate": "— Приходите еще. Я не слышал, что вы сказали."
+        }
+    },
+    {
+        "idiom": "You don't say!",
+        "desc": "Не может быть! Что вы говорите? Неужели?",
+        "sentence": "\"Your ring is a real diamond? You don't say!\"",
+        "translation": {
+            "GoogleTranslate": "«У тебя кольцо настоящий бриллиант? Ты не говоришь!»",
+            "DeepTranslate": "«У тебя кольцо настоящий бриллиант? Ты не говоришь!»",
+            "TranslatePlus": "«Ваше кольцо — настоящий бриллиант? Да что вы говорите!»",
+            "MicrosoftTranslate": "«Твое кольцо — настоящий бриллиант? Ты не говоришь!"
+        }
+    },
+    {
+        "idiom": "give (someone) a hand",
+        "desc": "помочь, оказать помощь",
+        "sentence": "I do the laundry and my husband gives me a hand with ironing.",
+        "translation": {
+            "GoogleTranslate": "Я стираю, а муж помогает мне гладить.",
+            "DeepTranslate": "Я стираю, а муж помогает мне гладить.",
+            "TranslatePlus": "Я стираю, а муж помогает мне с глажкой.",
+            "MicrosoftTranslate": "Я занимаюсь стиркой, а муж помогает мне с глажкой."
+        }
+    },
+    {
+        "idiom": "bite off more than one can chew",
+        "desc": "взяться за непосильное дело, не рассчитать своих сил",
+        "sentence": "\"I think you bit off more than you could chew by agreeing to make arrangements for a show.\"",
+        "translation": {
+            "GoogleTranslate": "«Я думаю, что ты откусил больше, чем мог проглотить, согласившись организовать шоу».",
+            "DeepTranslate": "«Я думаю, что ты откусил больше, чем мог проглотить, согласившись организовать шоу».",
+            "TranslatePlus": "«Я думаю, вы откусили больше, чем могли прожевать, согласившись организовать шоу».",
+            "MicrosoftTranslate": "— Я думаю, ты откусил больше, чем мог проглотить, согласившись договориться о шоу."
+        }
+    },
+    {
+        "idiom": "pull (someone's) leg",
+        "desc": "подшучивать над кем-либо, дурачить кого-либо",
+        "sentence": "Nathan is fond of playing tricks on people and he is always pulling my leg when he sees me.",
+        "translation": {
+            "GoogleTranslate": "Нэйтан любит подшучивать над людьми и всегда меня дергает, когда видит.",
+            "DeepTranslate": "Нэйтан любит подшучивать над людьми и всегда меня дергает, когда видит.",
+            "TranslatePlus": "Натан любит подшучивать над людьми, и он всегда подшучивает надо мной, когда видит меня.",
+            "MicrosoftTranslate": "Натан любит подшучивать над людьми и всегда тянет меня за ногу, когда видит меня."
+        }
+    },
+    {
+        "idiom": "hair-raising",
+        "desc": "страшный, жуткий, устрашающий",
+        "sentence": "Horror novels are really hair-raising.",
+        "translation": {
+            "GoogleTranslate": "Романы ужасов действительно вызывают мурашки.",
+            "DeepTranslate": "Романы ужасов действительно вызывают мурашки.",
+            "TranslatePlus": "Романы ужасов действительно ужасны.",
+            "MicrosoftTranslate": "Романы ужасов действительно встают дыбом."
+        }
+    },
+    {
+        "idiom": "go to the dogs",
+        "desc": "ухудшаться, разрушаться, \"пойти прахом\"",
+        "sentence": "\"If you don't do something about your business, it will go to the dogs.\"",
+        "translation": {
+            "GoogleTranslate": "«Если вы ничего не сделаете со своим бизнесом, он пойдет прахом».",
+            "DeepTranslate": "«Если вы ничего не сделаете со своим бизнесом, он пойдет прахом».",
+            "TranslatePlus": "«Если вы ничего не сделаете со своим бизнесом, он пойдет ко дну».",
+            "MicrosoftTranslate": "«Если вы не сделаете что-то в своем бизнесе, это пойдет к чертям»."
+        }
+    },
+    {
+        "idiom": "chase rainbows",
+        "desc": "пытаться достичь недостижимого",
+        "sentence": "\"If you don't stop chasing rainbows, you won't achieve anything.\"",
+        "translation": {
+            "GoogleTranslate": "«Если ты не перестанешь гоняться за радугой, ты ничего не добьешься».",
+            "DeepTranslate": "«Если ты не перестанешь гоняться за радугой, ты ничего не добьешься».",
+            "TranslatePlus": "«Если вы не перестанете гоняться за радугой, вы ничего не добьетесь».",
+            "MicrosoftTranslate": "«Если вы не перестанете гоняться за радугой, вы ничего не добьетесь»."
+        }
+    },
+    {
+        "idiom": "blood runs cold",
+        "desc": "внушать или вселять ужас, кровь стынет в жилах",
+        "sentence": "I am afraid of snakes, and whenever I see a snake my blood runs cold.",
+        "translation": {
+            "GoogleTranslate": "Я боюсь змей, и всякий раз, когда я вижу змею, у меня стынет кровь.",
+            "DeepTranslate": "Я боюсь змей, и всякий раз, когда я вижу змею, у меня кровь стынет в жилах.",
+            "TranslatePlus": "Я боюсь змей, и всякий раз, когда я вижу змею, у меня кровь стынет в жилах.",
+            "MicrosoftTranslate": "Я боюсь змей, и всякий раз, когда я вижу змею, моя кровь стынет в жилах."
+        }
+    },
+    {
+        "idiom": "be into (something)",
+        "desc": "интересоваться чем-то, быть вовлечённым во что-то",
+        "sentence": "My little brother is very much into chess and draughts.",
+        "translation": {
+            "GoogleTranslate": "Мой младший брат очень увлекается шахматами и шашками.",
+            "DeepTranslate": "Мой младший брат очень увлекается шахматами и шашками.",
+            "TranslatePlus": "Мой младший брат очень увлекается шахматами и шашками.",
+            "MicrosoftTranslate": "Мой младший брат очень увлекается шахматами и шашками."
+        }
+    },
+    {
+        "idiom": "see a man about a dog",
+        "desc": "пойти в туалет (эвфемизм)",
+        "sentence": "Jeremy drank too much beer, so he had to stop his car several times to see a man about a dog.",
+        "translation": {
+            "GoogleTranslate": "Джереми выпил слишком много пива, поэтому ему пришлось несколько раз останавливать машину, чтобы поговорить с мужчиной о собаке.",
+            "DeepTranslate": "Джереми выпил слишком много пива, поэтому ему пришлось несколько раз останавливать машину, чтобы поговорить с мужчиной о собаке.",
+            "TranslatePlus": "Джереми выпил слишком много пива, поэтому ему пришлось несколько раз останавливать машину, чтобы поговорить с мужчиной по поводу собаки.",
+            "MicrosoftTranslate": "Джереми выпил слишком много пива, поэтому ему пришлось несколько раз останавливать машину, чтобы увидеть мужчину о собаке."
+        }
+    },
+    {
+        "idiom": "change of pace",
+        "desc": "добавить разнообразия в жизни",
+        "sentence": "There is no variety in my life; I'd like a change of pace.",
+        "translation": {
+            "GoogleTranslate": "В моей жизни нет разнообразия; Я бы хотел сменить темп.",
+            "DeepTranslate": "В моей жизни нет разнообразия; Я бы хотел сменить темп.",
+            "TranslatePlus": "В моей жизни нет разнообразия, мне хочется смены темпа.",
+            "MicrosoftTranslate": "В моей жизни нет разнообразия; Я хотел бы сменить темп."
+        }
+    },
+    {
+        "idiom": "come on strong",
+        "desc": "подавлять кого-либо; наседать на кого-либо",
+        "sentence": "The boss came on strong at me to finish the job on time.",
+        "translation": {
+            "GoogleTranslate": "Начальник настоял на том, чтобы я закончил работу вовремя.",
+            "DeepTranslate": "Начальник настоял на том, чтобы я закончил работу вовремя.",
+            "TranslatePlus": "Начальник настойчиво требовал от меня закончить работу вовремя.",
+            "MicrosoftTranslate": "Босс набросился на меня, чтобы я закончил работу вовремя."
+        }
+    },
+    {
+        "idiom": "come into (some money)",
+        "desc": "получить наследство, вступать во владение",
+        "sentence": "When her aunt died, Zena came into some money and was able to buy a small house.",
+        "translation": {
+            "GoogleTranslate": "Когда ее тетя умерла, у Зены появились деньги и она смогла купить небольшой дом.",
+            "DeepTranslate": "Когда ее тетя умерла, у Зены появились деньги и она смогла купить небольшой дом.",
+            "TranslatePlus": "Когда умерла ее тетя, Зена получила немного денег и смогла купить небольшой дом.",
+            "MicrosoftTranslate": "Когда ее тетя умерла, Зена обзавелась деньгами и смогла купить небольшой дом."
+        }
+    },
+    {
+        "idiom": "play devil's advocate",
+        "desc": "не принимать на веру и во всем сомневаться; быть защитником неправедного дела",
+        "sentence": "Mary offered to play devil's advocate and argue against our case so that we would find out any flaws in it.",
+        "translation": {
+            "GoogleTranslate": "Мэри предложила выступить в роли адвоката дьявола и выступить против нашего дела, чтобы мы выяснили в нем все недостатки.",
+            "DeepTranslate": "Мэри предложила выступить в роли адвоката дьявола и выступить против нашего дела, чтобы мы выяснили в нем все недостатки.",
+            "TranslatePlus": "Мэри предложила выступить в роли адвоката дьявола и выступить против нашей позиции, чтобы мы смогли найти в ней какие-либо изъяны.",
+            "MicrosoftTranslate": "Мэри предложила поиграть в адвоката дьявола и выступить против нашего дела, чтобы мы выяснили в нем какие-либо недостатки."
+        }
+    },
+    {
+        "idiom": "above average",
+        "desc": "выше среднего",
+        "sentence": "Tim's grades were always above average in all subjects.",
+        "translation": {
+            "GoogleTranslate": "Оценки Тима всегда были выше среднего по всем предметам.",
+            "DeepTranslate": "Оценки Тима всегда были выше среднего по всем предметам.",
+            "TranslatePlus": "Оценки Тима всегда были выше среднего по всем предметам.",
+            "MicrosoftTranslate": "Оценки Тима всегда были выше среднего по всем предметам."
+        }
+    },
+    {
+        "idiom": "as cool as a cucumber",
+        "desc": "хладнокровный",
+        "sentence": "My friend Eric is as cool as a cucumber; he never gets upset.",
+        "translation": {
+            "GoogleTranslate": "Мой друг Эрик крут, как огурец; он никогда не расстраивается.",
+            "DeepTranslate": "Мой друг Эрик крут, как огурец; он никогда не расстраивается.",
+            "TranslatePlus": "Мой друг Эрик спокоен, как огурец; он никогда не расстраивается.",
+            "MicrosoftTranslate": "Мой друг Эрик хладнокровен, как огурец; Он никогда не расстраивается."
+        }
+    },
+    {
+        "idiom": "have a ball",
+        "desc": "хорошо провести время",
+        "sentence": "You should have come to the party last night. We had a ball.",
+        "translation": {
+            "GoogleTranslate": "Тебе следовало прийти на вечеринку вчера вечером. У нас был мяч.",
+            "DeepTranslate": "Тебе следовало прийти на вечеринку вчера вечером. У нас был мяч.",
+            "TranslatePlus": "Тебе следовало прийти на вечеринку вчера вечером. Мы отрывались по полной.",
+            "MicrosoftTranslate": "Вы должны были прийти на вечеринку вчера вечером. У нас был мяч."
+        }
+    },
+    {
+        "idiom": "at one's wit's end",
+        "desc": "быть в растерянности; не знать, что делать",
+        "sentence": "Jack was at his wit's end about what to do with the puppy.",
+        "translation": {
+            "GoogleTranslate": "Джек не знал, что делать со щенком.",
+            "DeepTranslate": "Джек не знал, что делать со щенком.",
+            "TranslatePlus": "Джек не знал, что делать со щенком.",
+            "MicrosoftTranslate": "Джек был в недоумении, что делать со щенком."
+        }
+    },
+    {
+        "idiom": "alley cat",
+        "desc": "бродячая, бездомная кошка",
+        "sentence": "There is an alley cat which I see near my house very often.",
+        "translation": {
+            "GoogleTranslate": "Около моего дома я очень часто вижу уличную кошку.",
+            "DeepTranslate": "Около моего дома я очень часто вижу уличную кошку.",
+            "TranslatePlus": "Возле моего дома я очень часто вижу бездомного кота.",
+            "MicrosoftTranslate": "Возле моего дома есть уличная кошка, которую я вижу очень часто."
+        }
+    },
+    {
+        "idiom": "Good grief!",
+        "desc": "Боже мой! (выражение удивления)",
+        "sentence": "\"Good grief! It's 12 a.m. and the children are not in bed yet.\"",
+        "translation": {
+            "GoogleTranslate": "«Боже мой! Сейчас 12 часов ночи, а дети еще не легли спать».",
+            "DeepTranslate": "«Боже мой! Уже 12 часов ночи, а дети еще не легли спать».",
+            "TranslatePlus": "«О, черт! Уже 12 часов ночи, а дети еще не легли спать».",
+            "MicrosoftTranslate": "— Боже мой! Сейчас 12 часов ночи, а дети еще не легли спать»."
+        }
+    },
+    {
+        "idiom": "drive a hard bargain",
+        "desc": "заключить сделку без уступок",
+        "sentence": "Although we drove a hard bargain, our partners were quite content.",
+        "translation": {
+            "GoogleTranslate": "Хотя мы заключили жесткую сделку, наши партнеры были вполне довольны.",
+            "DeepTranslate": "Хотя мы заключили жесткую сделку, наши партнеры были вполне довольны.",
+            "TranslatePlus": "Хотя нам пришлось вести жесткую торговлю, наши партнеры остались вполне довольны.",
+            "MicrosoftTranslate": "Несмотря на то, что мы жестко торговались, наши партнеры остались вполне довольны."
+        }
+    },
+    {
+        "idiom": "Here's mud in your eye.",
+        "desc": "За наше здоровье! (тост)",
+        "sentence": "\"Here's mud in your eye,\" the man said and raised his wineglass.",
+        "translation": {
+            "GoogleTranslate": "«Вот тебе грязь в глазу», — сказал мужчина и поднял бокал.",
+            "DeepTranslate": "«Вот тебе грязь в глазу», — сказал мужчина и поднял бокал.",
+            "TranslatePlus": "«Вам в глаз попала грязь», — сказал мужчина и поднял бокал.",
+            "MicrosoftTranslate": "«Вот грязь в твоем глазу», — сказал мужчина и поднял бокал."
+        }
+    },
+    {
+        "idiom": "burn the candle at both ends",
+        "desc": "гореть на работе, слишком много трудиться без отдыха",
+        "sentence": "Susan is burning the candle at both ends; I am afraid she might get sick.",
+        "translation": {
+            "GoogleTranslate": "Сьюзан сжигает свечу с обоих концов; Я боюсь, что она может заболеть.",
+            "DeepTranslate": "Сьюзен сжигает свечу с обоих концов; Я боюсь, что она может заболеть.",
+            "TranslatePlus": "Сьюзен жжет свечу с обоих концов; я боюсь, что она может заболеть.",
+            "MicrosoftTranslate": "Сьюзен жжет свечу с обоих концов; Я боюсь, что она может заболеть."
+        }
+    },
+    {
+        "idiom": "shaggy dog story",
+        "desc": "длинный бессмысленный рассказ",
+        "sentence": "My cousin told me a shaggy dog story about how she had lost her purse.",
+        "translation": {
+            "GoogleTranslate": "Моя двоюродная сестра рассказала мне историю о лохматой собаке о том, как она потеряла сумочку.",
+            "DeepTranslate": "Моя двоюродная сестра рассказала мне историю о лохматой собаке о том, как она потеряла сумочку.",
+            "TranslatePlus": "Моя кузина рассказала мне жуткую историю о том, как она потеряла свою сумочку.",
+            "MicrosoftTranslate": "Моя двоюродная сестра рассказала мне лохматую собачью историю о том, как она потеряла свою сумочку."
+        }
+    }
+]
