@@ -35,6 +35,13 @@ def main():
     st.session_state.setdefault("translate_text", "")
     st.session_state.setdefault("input_text", "")
 
+    st.markdown("""<style>
+                              .st-emotion-cache-183lzff {
+                                word-wrap: break-word;
+                                white-space: normal;
+                                }
+                        </style>""", unsafe_allow_html=True)
+
     with st.sidebar:
         sb_translate = st.selectbox("Выберете переводчик", translate_object, key="service", on_change=on_change_services)
         if sb_translate is not None:

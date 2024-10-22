@@ -1,0 +1,15 @@
+model:
+  name: "RuGPT3Small"
+  tokenizer_path: "sberbank-ai/rugpt3small_based_on_gpt2"
+  model_path: "sberbank-ai/rugpt3small_based_on_gpt2"
+
+generation_params:
+  max_length: 200
+  min_length: 100
+  num_return_sequences: 1
+  no_repeat_ngram_size: 2
+  do_sample: True
+  top_k: 20
+  top_p: 0.8
+  temperature: 0.8
+  num_beams: 3
