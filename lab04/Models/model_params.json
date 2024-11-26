@@ -1,0 +1,14 @@
+{
+  "Vikhrmodels/Vikhr-Llama-3.2-1B-Instruct": {
+    "max_new_tokens": 200,
+    "top_k": 50,
+    "top_p": 0.9,
+    "do_sample": true
+  },
+  "ai-forever/rugpt3medium_based_on_gpt2": {
+    "max_new_tokens": 200,
+    "top_k": 10,
+    "top_p": 0.8,
+    "do_sample": true
+  }
+}
