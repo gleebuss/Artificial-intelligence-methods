@@ -3,7 +3,7 @@ import joblib
 from sklearn.pipeline import Pipeline
 
 
-def load_model(path: str = "./Models/"):
+def load_model(path: str = "./CourseWork/Models/"):
     full_path =  path + "pipeline_model_NB.joblib"
     return joblib.load(full_path)
 
